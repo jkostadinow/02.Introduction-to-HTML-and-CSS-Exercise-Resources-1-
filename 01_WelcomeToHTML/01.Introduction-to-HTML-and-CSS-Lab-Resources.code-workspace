@@ -1,0 +1,34 @@
+{
+	"folders": [
+		{
+			"path": "../../01.Introduction-to-HTML-and-CSS-Lab-Resources"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../03.Typography-in-CSS-Lab-Resources"
+		},
+		{
+			"path": "../../04.Typography-in-CSS-Exercise-Resources"
+		},
+		{
+			"path": "../../05.Box-Model-and-Position-Lab-Resources"
+		},
+		{
+			"path": "../../06.Box-Model-and-Position-Exercise-Resources"
+		},
+		{
+			"path": "../../07.CSS-Layout-Flexbox-Lab-Resources"
+		},
+		{
+			"path": "../../08.Flexbox-Exercise-Resources"
+		},
+		{
+			"path": "../../09.Responsive-Web-Design-Lab-Resources"
+		},
+		{
+			"path": "../../10.Responsive-Web-Design-Exercise-Resources"
+		}
+	]
+}
